@@ -124,3 +124,6 @@ https://github.com/user-attachments/assets/b1d85300-9e3f-48fe-a5b3-0162d1ba0bf5
 
 
 ##  Diagrama de flujo
+
+<img width="2418" height="2646" alt="DIAGRAMA" src="https://github.com/user-attachments/assets/8c386710-f948-41af-8c11-8f553abd2503" />
+
