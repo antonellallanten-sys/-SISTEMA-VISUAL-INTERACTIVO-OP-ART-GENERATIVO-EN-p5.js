@@ -13,7 +13,6 @@ Imagen referencial:
 
 ![imagen](https://files.ocula.com/ri/16/16db341b-92e2-414d-8ce1-f5b2b3381a32/1512/850/victor-vasarelys-kaleidoscopic-abstractions.jpg)
 
----
 
 ##  Descripción objetiva
 
@@ -43,7 +42,17 @@ El sistema responde a entradas del usuario y modifica dinámicamente la composic
 ## PROYECTO FINAL
 
 
-## 🧠 Descripción conceptual
+
+https://github.com/user-attachments/assets/24949952-dc1e-4290-a696-5b78a84ef92f
+
+### Link p5.js
+
+https://editor.p5js.org/antonella.llanten/full/x5O0UzT18
+https://editor.p5js.org/antonella.llanten/sketches/x5O0UzT18
+
+
+
+## Descripción conceptual
 
 El proyecto se basa en principios del Op Art, explorando la percepción visual mediante sistemas repetitivos y su deformación algorítmica.
 
@@ -64,25 +73,36 @@ El sistema genera efectos ópticos a partir de variaciones controladas en estruc
 - Interacción en tiempo real
 - Sistemas basados en reglas
 
----
 
-## 🔁 Proceso de desarrollo
+## Proceso de desarrollo
 
-### V1 – Sistema base
+###  Sistema base
 Construcción de una grilla regular de elementos sin interacción compleja.  
 Objetivo: establecer la estructura base del sistema.
 
-### V2 – Deformación del sistema
+<img width="1595" height="672" alt="Captura de pantalla 2026-05-22 095414" src="https://github.com/user-attachments/assets/17120a1e-df73-4821-87df-55aa59d3a9f0" />
+
+
+### Deformación del sistema
 Se incorpora ruido (noise) para modificar la posición de los elementos.  
 Objetivo: introducir variación y comportamiento no lineal.
 
-### V3 – Sistema final
+
+
+https://github.com/user-attachments/assets/899b4c6b-0d93-4af0-9091-18464747f5d6
+
+
+
+### Sistema final
 Se integra interacción completa, cambios de estado y transformación dinámica.  
 Objetivo: sistema generativo interactivo final.
 
----
 
-## 🔁 Input / Output / Procesamiento
+https://github.com/user-attachments/assets/b1d85300-9e3f-48fe-a5b3-0162d1ba0bf5
+
+
+
+## Input / Output / Procesamiento
 
 ### Input:
 - mouseX → controla interacción visual
@@ -102,6 +122,5 @@ Objetivo: sistema generativo interactivo final.
 - Cambio de color y estado
 - Efecto de ilusión óptica
 
----
 
-## 📊 Diagrama de flujo
+##  Diagrama de flujo
