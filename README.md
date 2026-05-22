@@ -4,14 +4,33 @@ pensamiento-computacional-sec3
  Información del proyecto
 
 **Nombre del proyecto:**  
-Sistema visual interactivo basado en Op Art
+Sistema visual interactivo 
 
 **Autor/a (referente):**  
 Victor Vasarely
 
+Fue elegido como referente debido a su exploración de patrones geométricos, repetición modular y efectos de percepción óptica característicos del Op Art.
+
+Su trabajo utiliza estructuras visuales basadas en reglas, variaciones de color y deformaciones espaciales para generar sensación de movimiento y profundidad, principios que fueron traducidos al proyecto mediante programación en p5.js.
+
+La propuesta toma estos recursos visuales y los transforma en un sistema interactivo y dinámico, donde las figuras reaccionan en tiempo real a la interacción del usuario mediante transformaciones algorítmicas.
+
+
 Imagen referencial:
 
 ![imagen](https://files.ocula.com/ri/16/16db341b-92e2-414d-8ce1-f5b2b3381a32/1512/850/victor-vasarelys-kaleidoscopic-abstractions.jpg)
+
+**Más referentes:**
+
+Bridget Riley:
+Uso de patrones repetitivos y percepción visual.
+
+Casey Reas:
+Sistemas visuales generativos basados en reglas computacionales.
+
+Vera Molnár:
+Exploración de geometría y variación mediante algoritmos.
+
 
 
 ##  Descripción objetiva
@@ -58,13 +77,6 @@ El proyecto se basa en principios del Op Art, explorando la percepción visual m
 
 El sistema genera efectos ópticos a partir de variaciones controladas en estructuras geométricas, produciendo sensación de movimiento, vibración y profundidad.
 
-### Referente principal:
-- Victor Vasarely
-
-### Referentes complementarios:
-- Bridget Riley
-- Casey Reas
-- p5.js / Processing
 
 ### Principios de diseño:
 - Repetición estructural
