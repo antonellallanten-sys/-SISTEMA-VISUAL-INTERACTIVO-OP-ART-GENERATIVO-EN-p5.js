@@ -1,2 +1,107 @@
 # -SISTEMA-VISUAL-INTERACTIVO-OP-ART-GENERATIVO-EN-p5.js
 pensamiento-computacional-sec3
+
+ Información del proyecto
+
+**Nombre del proyecto:**  
+Sistema visual interactivo basado en Op Art
+
+**Autor/a (referente):**  
+Victor Vasarely
+
+Imagen referencial:
+
+![imagen](https://files.ocula.com/ri/16/16db341b-92e2-414d-8ce1-f5b2b3381a32/1512/850/victor-vasarelys-kaleidoscopic-abstractions.jpg)
+
+---
+
+##  Descripción objetiva
+
+Este proyecto es un sistema visual interactivo desarrollado en p5.js. Se basa en la generación de una estructura bidimensional compuesta por una grilla de elementos geométricos que se transforman en tiempo real mediante reglas algorítmicas.
+
+El sistema responde a entradas del usuario y modifica dinámicamente la composición visual a través de transformaciones espaciales y cromáticas.
+
+### Elementos visuales:
+- Grilla bidimensional de elementos
+- Figuras geométricas (círculos, rectángulos, triángulos)
+- Transformación de posición, escala y rotación
+- Variación de color
+- Distorsión mediante ruido (noise)
+
+### Inputs:
+- mouseX (interacción horizontal)
+- mouseY (control de densidad)
+- mousePressed (cambio de estado visual)
+
+### Outputs:
+- Modificación de color
+- Variación de tamaño
+- Rotación de elementos
+- Deformación del sistema visual
+- Cambio de modo visual
+
+## PROYECTO FINAL
+
+
+## 🧠 Descripción conceptual
+
+El proyecto se basa en principios del Op Art, explorando la percepción visual mediante sistemas repetitivos y su deformación algorítmica.
+
+El sistema genera efectos ópticos a partir de variaciones controladas en estructuras geométricas, produciendo sensación de movimiento, vibración y profundidad.
+
+### Referente principal:
+- Victor Vasarely
+
+### Referentes complementarios:
+- Bridget Riley
+- Casey Reas
+- p5.js / Processing
+
+### Principios de diseño:
+- Repetición estructural
+- Variación controlada
+- Aleatoriedad mediante noise
+- Interacción en tiempo real
+- Sistemas basados en reglas
+
+---
+
+## 🔁 Proceso de desarrollo
+
+### V1 – Sistema base
+Construcción de una grilla regular de elementos sin interacción compleja.  
+Objetivo: establecer la estructura base del sistema.
+
+### V2 – Deformación del sistema
+Se incorpora ruido (noise) para modificar la posición de los elementos.  
+Objetivo: introducir variación y comportamiento no lineal.
+
+### V3 – Sistema final
+Se integra interacción completa, cambios de estado y transformación dinámica.  
+Objetivo: sistema generativo interactivo final.
+
+---
+
+## 🔁 Input / Output / Procesamiento
+
+### Input:
+- mouseX → controla interacción visual
+- mouseY → controla densidad del sistema
+- mousePressed → cambia estado visual
+
+### Procesamiento:
+- Generación de grilla
+- Aplicación de noise (deformación espacial)
+- Cálculo de distancia al cursor
+- Evaluación de condicionales
+- Transformaciones visuales
+
+### Output:
+- Sistema visual dinámico
+- Transformación constante de formas
+- Cambio de color y estado
+- Efecto de ilusión óptica
+
+---
+
+## 📊 Diagrama de flujo
